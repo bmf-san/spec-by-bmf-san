@@ -138,8 +138,6 @@
 ## 参考情報
 
 - [クネビンフレームワークを活用したストーリーポイントの考え方](https://bmf-tech.com/posts/%e3%82%af%e3%83%8d%e3%83%93%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0%e3%83%af%e3%83%bc%e3%82%af%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9f%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%81%ae%e8%80%83%e3%81%88%e6%96%b9) - 本手法の詳細な解説記事
-- [Demystifying Story Point Estimation Using the Cynefin Framework](https://example.com) - 類似アプローチの先行事例
-- Cynefin Framework by Dave Snowden - フレームワークの原典
 
 ---
 
